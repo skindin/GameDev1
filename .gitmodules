@@ -1,0 +1,3 @@
+[submodule "My project/Assets/scripts"]
+	path = My project/Assets/scripts
+	url = https://github.com/skindin/scripts
